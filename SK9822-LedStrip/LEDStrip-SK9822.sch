@@ -163,9 +163,9 @@ Text HLabel 2875 7650 3    50   Input ~ 0
 GND
 Text HLabel 2875 7350 1    50   Input ~ 0
 VDD
-Text HLabel 5250 925  1    50   Output ~ 0
+Text HLabel 5250 3925 1    50   Output ~ 0
 CKOUT
-Text HLabel 5150 925  1    50   Output ~ 0
+Text HLabel 5150 3925 1    50   Output ~ 0
 SDOUT
 $Comp
 L sk9822:SK9822 D1
@@ -656,10 +656,6 @@ F 3 "https://cdn-shop.adafruit.com/product-files/2351/SK9822_datasheet_SHIJI.pdf
 	1    4375 1225
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	4950 1225 4950 1825
-Wire Wire Line
-	5550 850  5550 1225
 $Comp
 L sk9822:SK9822 D31
 U 1 1 61ABF9B8
@@ -739,87 +735,8 @@ Wire Wire Line
 Connection ~ 4950 4225
 Wire Wire Line
 	4950 4225 4950 4825
-$Comp
-L sk9822:SK9822 D36
-U 1 1 61AC2A87
-P 5250 3625
-F 0 "D36" H 5250 4106 50  0000 C CNN
-F 1 "SK9822" H 5250 4015 50  0000 C CNN
-F 2 "SK9822:SK9822" H 5300 3325 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2351/SK9822_datasheet_SHIJI.pdf" H 5350 3250 50  0001 L TNN
-	1    5250 3625
-	0    -1   -1   0   
-$EndComp
-Connection ~ 5550 3625
 Wire Wire Line
-	5550 3625 5550 4225
-Connection ~ 4950 3625
+	4950 1225 4950 4225
 Wire Wire Line
-	4950 3625 4950 4225
-$Comp
-L sk9822:SK9822 D37
-U 1 1 61AC3233
-P 5250 3025
-F 0 "D37" H 5250 3506 50  0000 C CNN
-F 1 "SK9822" H 5250 3415 50  0000 C CNN
-F 2 "SK9822:SK9822" H 5300 2725 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2351/SK9822_datasheet_SHIJI.pdf" H 5350 2650 50  0001 L TNN
-	1    5250 3025
-	0    -1   -1   0   
-$EndComp
-Connection ~ 5550 3025
-Wire Wire Line
-	5550 3025 5550 3625
-Connection ~ 4950 3025
-Wire Wire Line
-	4950 3025 4950 3625
-$Comp
-L sk9822:SK9822 D38
-U 1 1 61AC3ABD
-P 5250 2425
-F 0 "D38" H 5250 2906 50  0000 C CNN
-F 1 "SK9822" H 5250 2815 50  0000 C CNN
-F 2 "SK9822:SK9822" H 5300 2125 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2351/SK9822_datasheet_SHIJI.pdf" H 5350 2050 50  0001 L TNN
-	1    5250 2425
-	0    -1   -1   0   
-$EndComp
-Connection ~ 5550 2425
-Wire Wire Line
-	5550 2425 5550 3025
-Connection ~ 4950 2425
-Wire Wire Line
-	4950 2425 4950 3025
-$Comp
-L sk9822:SK9822 D39
-U 1 1 61AC42A1
-P 5250 1825
-F 0 "D39" H 5250 2306 50  0000 C CNN
-F 1 "SK9822" H 5250 2215 50  0000 C CNN
-F 2 "SK9822:SK9822" H 5300 1525 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2351/SK9822_datasheet_SHIJI.pdf" H 5350 1450 50  0001 L TNN
-	1    5250 1825
-	0    -1   -1   0   
-$EndComp
-Connection ~ 5550 1825
-Wire Wire Line
-	5550 1825 5550 2425
-Connection ~ 4950 1825
-Wire Wire Line
-	4950 1825 4950 2425
-$Comp
-L sk9822:SK9822 D40
-U 1 1 61AC489A
-P 5250 1225
-F 0 "D40" H 5250 1706 50  0000 C CNN
-F 1 "SK9822" H 5250 1615 50  0000 C CNN
-F 2 "SK9822:SK9822" H 5300 925 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/2351/SK9822_datasheet_SHIJI.pdf" H 5350 850 50  0001 L TNN
-	1    5250 1225
-	0    -1   -1   0   
-$EndComp
-Connection ~ 5550 1225
-Wire Wire Line
-	5550 1225 5550 1825
-Connection ~ 4950 1225
+	5550 850  5550 4225
 $EndSCHEMATC
