@@ -1,0 +1,296 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L LED:APA102-2020 D?
+U 1 1 61D3E6FA
+P 2000 6750
+AR Path="/61D3573E/61D3E6FA" Ref="D?"  Part="1" 
+AR Path="/61A2E13F/61D3E6FA" Ref="D?"  Part="1" 
+AR Path="/61A3388B/61D3E6FA" Ref="D?"  Part="1" 
+AR Path="/61A3437F/61D3E6FA" Ref="D?"  Part="1" 
+AR Path="/61A36A0E/61D3E6FA" Ref="D?"  Part="1" 
+AR Path="/61A3766E/61D3E6FA" Ref="D?"  Part="1" 
+AR Path="/61A38820/61D3E6FA" Ref="D?"  Part="1" 
+AR Path="/61A39D42/61D3E6FA" Ref="D?"  Part="1" 
+F 0 "D?" V 2046 6406 50  0000 R CNN
+F 1 "APA102-2020" V 1955 6406 50  0000 R CNN
+F 2 "LED_SMD:LED-APA102-2020" H 2050 6450 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 2100 6375 50  0001 L TNN
+	1    2000 6750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED:APA102-2020 D?
+U 1 1 61D3E700
+P 2000 6150
+AR Path="/61D3573E/61D3E700" Ref="D?"  Part="1" 
+AR Path="/61A2E13F/61D3E700" Ref="D?"  Part="1" 
+AR Path="/61A3388B/61D3E700" Ref="D?"  Part="1" 
+AR Path="/61A3437F/61D3E700" Ref="D?"  Part="1" 
+AR Path="/61A36A0E/61D3E700" Ref="D?"  Part="1" 
+AR Path="/61A3766E/61D3E700" Ref="D?"  Part="1" 
+AR Path="/61A38820/61D3E700" Ref="D?"  Part="1" 
+AR Path="/61A39D42/61D3E700" Ref="D?"  Part="1" 
+F 0 "D?" V 2046 5806 50  0000 R CNN
+F 1 "APA102-2020" V 1955 5806 50  0000 R CNN
+F 2 "LED_SMD:LED-APA102-2020" H 2050 5850 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 2100 5775 50  0001 L TNN
+	1    2000 6150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED:APA102-2020 D?
+U 1 1 61D3E706
+P 2000 5550
+AR Path="/61D3573E/61D3E706" Ref="D?"  Part="1" 
+AR Path="/61A2E13F/61D3E706" Ref="D?"  Part="1" 
+AR Path="/61A3388B/61D3E706" Ref="D?"  Part="1" 
+AR Path="/61A3437F/61D3E706" Ref="D?"  Part="1" 
+AR Path="/61A36A0E/61D3E706" Ref="D?"  Part="1" 
+AR Path="/61A3766E/61D3E706" Ref="D?"  Part="1" 
+AR Path="/61A38820/61D3E706" Ref="D?"  Part="1" 
+AR Path="/61A39D42/61D3E706" Ref="D?"  Part="1" 
+F 0 "D?" V 2046 5206 50  0000 R CNN
+F 1 "APA102-2020" V 1955 5206 50  0000 R CNN
+F 2 "LED_SMD:LED-APA102-2020" H 2050 5250 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 2100 5175 50  0001 L TNN
+	1    2000 5550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED:APA102-2020 D?
+U 1 1 61D3E70C
+P 2000 4950
+AR Path="/61D3573E/61D3E70C" Ref="D?"  Part="1" 
+AR Path="/61A2E13F/61D3E70C" Ref="D?"  Part="1" 
+AR Path="/61A3388B/61D3E70C" Ref="D?"  Part="1" 
+AR Path="/61A3437F/61D3E70C" Ref="D?"  Part="1" 
+AR Path="/61A36A0E/61D3E70C" Ref="D?"  Part="1" 
+AR Path="/61A3766E/61D3E70C" Ref="D?"  Part="1" 
+AR Path="/61A38820/61D3E70C" Ref="D?"  Part="1" 
+AR Path="/61A39D42/61D3E70C" Ref="D?"  Part="1" 
+F 0 "D?" V 2046 4606 50  0000 R CNN
+F 1 "APA102-2020" V 1955 4606 50  0000 R CNN
+F 2 "LED_SMD:LED-APA102-2020" H 2050 4650 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 2100 4575 50  0001 L TNN
+	1    2000 4950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED:APA102-2020 D?
+U 1 1 61D3E712
+P 2000 4350
+AR Path="/61D3573E/61D3E712" Ref="D?"  Part="1" 
+AR Path="/61A2E13F/61D3E712" Ref="D?"  Part="1" 
+AR Path="/61A3388B/61D3E712" Ref="D?"  Part="1" 
+AR Path="/61A3437F/61D3E712" Ref="D?"  Part="1" 
+AR Path="/61A36A0E/61D3E712" Ref="D?"  Part="1" 
+AR Path="/61A3766E/61D3E712" Ref="D?"  Part="1" 
+AR Path="/61A38820/61D3E712" Ref="D?"  Part="1" 
+AR Path="/61A39D42/61D3E712" Ref="D?"  Part="1" 
+F 0 "D?" V 2046 4006 50  0000 R CNN
+F 1 "APA102-2020" V 1955 4006 50  0000 R CNN
+F 2 "LED_SMD:LED-APA102-2020" H 2050 4050 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 2100 3975 50  0001 L TNN
+	1    2000 4350
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED:APA102-2020 D?
+U 1 1 61D3E718
+P 2000 3750
+AR Path="/61D3573E/61D3E718" Ref="D?"  Part="1" 
+AR Path="/61A2E13F/61D3E718" Ref="D?"  Part="1" 
+AR Path="/61A3388B/61D3E718" Ref="D?"  Part="1" 
+AR Path="/61A3437F/61D3E718" Ref="D?"  Part="1" 
+AR Path="/61A36A0E/61D3E718" Ref="D?"  Part="1" 
+AR Path="/61A3766E/61D3E718" Ref="D?"  Part="1" 
+AR Path="/61A38820/61D3E718" Ref="D?"  Part="1" 
+AR Path="/61A39D42/61D3E718" Ref="D?"  Part="1" 
+F 0 "D?" V 2046 3406 50  0000 R CNN
+F 1 "APA102-2020" V 1955 3406 50  0000 R CNN
+F 2 "LED_SMD:LED-APA102-2020" H 2050 3450 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 2100 3375 50  0001 L TNN
+	1    2000 3750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED:APA102-2020 D?
+U 1 1 61D3E71E
+P 2000 3150
+AR Path="/61D3573E/61D3E71E" Ref="D?"  Part="1" 
+AR Path="/61A2E13F/61D3E71E" Ref="D?"  Part="1" 
+AR Path="/61A3388B/61D3E71E" Ref="D?"  Part="1" 
+AR Path="/61A3437F/61D3E71E" Ref="D?"  Part="1" 
+AR Path="/61A36A0E/61D3E71E" Ref="D?"  Part="1" 
+AR Path="/61A3766E/61D3E71E" Ref="D?"  Part="1" 
+AR Path="/61A38820/61D3E71E" Ref="D?"  Part="1" 
+AR Path="/61A39D42/61D3E71E" Ref="D?"  Part="1" 
+F 0 "D?" V 2046 2806 50  0000 R CNN
+F 1 "APA102-2020" V 1955 2806 50  0000 R CNN
+F 2 "LED_SMD:LED-APA102-2020" H 2050 2850 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 2100 2775 50  0001 L TNN
+	1    2000 3150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED:APA102-2020 D?
+U 1 1 61D3E724
+P 2000 2550
+AR Path="/61D3573E/61D3E724" Ref="D?"  Part="1" 
+AR Path="/61A2E13F/61D3E724" Ref="D?"  Part="1" 
+AR Path="/61A3388B/61D3E724" Ref="D?"  Part="1" 
+AR Path="/61A3437F/61D3E724" Ref="D?"  Part="1" 
+AR Path="/61A36A0E/61D3E724" Ref="D?"  Part="1" 
+AR Path="/61A3766E/61D3E724" Ref="D?"  Part="1" 
+AR Path="/61A38820/61D3E724" Ref="D?"  Part="1" 
+AR Path="/61A39D42/61D3E724" Ref="D?"  Part="1" 
+F 0 "D?" V 2046 2206 50  0000 R CNN
+F 1 "APA102-2020" V 1955 2206 50  0000 R CNN
+F 2 "LED_SMD:LED-APA102-2020" H 2050 2250 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 2100 2175 50  0001 L TNN
+	1    2000 2550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED:APA102-2020 D?
+U 1 1 61D3E72A
+P 2000 1950
+AR Path="/61D3E72A" Ref="D?"  Part="1" 
+AR Path="/61D3573E/61D3E72A" Ref="D?"  Part="1" 
+AR Path="/61A2E13F/61D3E72A" Ref="D?"  Part="1" 
+AR Path="/61A3388B/61D3E72A" Ref="D?"  Part="1" 
+AR Path="/61A3437F/61D3E72A" Ref="D?"  Part="1" 
+AR Path="/61A36A0E/61D3E72A" Ref="D?"  Part="1" 
+AR Path="/61A3766E/61D3E72A" Ref="D?"  Part="1" 
+AR Path="/61A38820/61D3E72A" Ref="D?"  Part="1" 
+AR Path="/61A39D42/61D3E72A" Ref="D?"  Part="1" 
+F 0 "D?" V 2046 1606 50  0000 R CNN
+F 1 "APA102-2020" V 1955 1606 50  0000 R CNN
+F 2 "LED_SMD:LED-APA102-2020" H 2050 1650 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 2100 1575 50  0001 L TNN
+	1    2000 1950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED:APA102-2020 D?
+U 1 1 61D3EB34
+P 2000 1350
+AR Path="/61D3EB34" Ref="D?"  Part="1" 
+AR Path="/61D3573E/61D3EB34" Ref="D?"  Part="1" 
+AR Path="/61A2E13F/61D3EB34" Ref="D?"  Part="1" 
+AR Path="/61A3388B/61D3EB34" Ref="D?"  Part="1" 
+AR Path="/61A3437F/61D3EB34" Ref="D?"  Part="1" 
+AR Path="/61A36A0E/61D3EB34" Ref="D?"  Part="1" 
+AR Path="/61A3766E/61D3EB34" Ref="D?"  Part="1" 
+AR Path="/61A38820/61D3EB34" Ref="D?"  Part="1" 
+AR Path="/61A39D42/61D3EB34" Ref="D?"  Part="1" 
+F 0 "D?" V 2046 1006 50  0000 R CNN
+F 1 "APA102-2020" V 1955 1006 50  0000 R CNN
+F 2 "LED_SMD:LED-APA102-2020" H 2050 1050 50  0001 L TNN
+F 3 "http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf" H 2100 975 50  0001 L TNN
+	1    2000 1350
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1900 7050 1900 7175
+Wire Wire Line
+	2000 7050 2000 7175
+Text HLabel 1900 7175 3    50   Input ~ 0
+SDIN
+Text HLabel 2000 7175 3    50   Input ~ 0
+CKIN
+Wire Wire Line
+	1700 6750 1700 6150
+Connection ~ 1700 1950
+Wire Wire Line
+	1700 1950 1700 1350
+Connection ~ 1700 2550
+Wire Wire Line
+	1700 2550 1700 1950
+Connection ~ 1700 3150
+Wire Wire Line
+	1700 3150 1700 2550
+Connection ~ 1700 3750
+Wire Wire Line
+	1700 3750 1700 3150
+Connection ~ 1700 4350
+Wire Wire Line
+	1700 4350 1700 3750
+Connection ~ 1700 4950
+Wire Wire Line
+	1700 4950 1700 4350
+Connection ~ 1700 5550
+Wire Wire Line
+	1700 5550 1700 4950
+Connection ~ 1700 6150
+Wire Wire Line
+	1700 6150 1700 5550
+Wire Wire Line
+	1700 6750 1700 7175
+Connection ~ 1700 6750
+Wire Wire Line
+	2300 1350 2300 1950
+Connection ~ 2300 1950
+Wire Wire Line
+	2300 1950 2300 2550
+Connection ~ 2300 2550
+Wire Wire Line
+	2300 2550 2300 3150
+Connection ~ 2300 3150
+Wire Wire Line
+	2300 3150 2300 3750
+Connection ~ 2300 3750
+Wire Wire Line
+	2300 3750 2300 4350
+Connection ~ 2300 4350
+Wire Wire Line
+	2300 4350 2300 4950
+Connection ~ 2300 4950
+Wire Wire Line
+	2300 4950 2300 5550
+Connection ~ 2300 5550
+Wire Wire Line
+	2300 5550 2300 6150
+Connection ~ 2300 6150
+Wire Wire Line
+	2300 6150 2300 6750
+Connection ~ 2300 6750
+Wire Wire Line
+	2300 6750 2300 7175
+Text HLabel 1700 7175 3    50   Input ~ 0
+VDD
+Text HLabel 2300 7175 3    50   Input ~ 0
+GND
+Wire Wire Line
+	2300 1350 2300 900 
+Connection ~ 2300 1350
+Wire Wire Line
+	1700 1350 1700 900 
+Connection ~ 1700 1350
+Wire Wire Line
+	1900 1050 1900 900 
+Wire Wire Line
+	2000 1050 2000 900 
+Text HLabel 2300 900  1    50   Output ~ 0
+GND
+Text HLabel 2000 900  1    50   Output ~ 0
+CKOUT
+Text HLabel 1900 900  1    50   Output ~ 0
+SDOUT
+Text HLabel 1700 900  1    50   Output ~ 0
+VDD
+$EndSCHEMATC

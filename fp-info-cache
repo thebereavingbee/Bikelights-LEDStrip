@@ -1,4 +1,4 @@
-19409556402467383
+19411194412506402
 1-1123723-4
 TE_1-1123723-4
 
@@ -307,6 +307,20 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+BikeLights
+Skull
+
+
+0
+0
+0
+BikeLights
+SkullSmall
+
+
+0
+0
+0
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -76299,13 +76313,6 @@ rotary encoder
 0
 5
 4
-SK9822
-SK9822
-
-
-0
-6
-6
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
