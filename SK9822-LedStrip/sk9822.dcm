@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SK9822
+D RGB LED with integrated controller
+K RGB LED addressable 8bit pwm 5bit greyscale
+F https://cdn-shop.adafruit.com/product-files/2351/SK9822_datasheet_SHIJI.pdf
+$ENDCMP
+#
+#End Doc Library
