@@ -739,4 +739,6 @@ Wire Wire Line
 	4950 1225 4950 4225
 Wire Wire Line
 	5550 850  5550 4225
+Text Notes 6850 3600 0    50   ~ 0
+35 LEDS
 $EndSCHEMATC
